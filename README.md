@@ -1,7 +1,8 @@
 # HastaneYonetimSistemi
-#VisualStudio ortamında; C# dili ve .NetFrameworkü kullanarak geliştirdiğim bu projede hasta, doktor ve sekreter alanları bulunmaktadır.
-#Hasta sisteme giriş yaparak randevu oluşturabilir, bilgilerini düzenleyebilir, mevcut randevularını ve önceden almış olduğu randevuları görüntüleyebilir.
-
+VisualStudio ortamında; C# dili ve .NetFrameworkü kullanarak geliştirdiğim bu projede hasta, doktor ve sekreter alanları bulunmaktadır.
+Hasta sisteme giriş yaparak randevu oluşturabilir, bilgilerini düzenleyebilir, mevcut randevularını ve önceden almış olduğu randevuları görüntüleyebilir.
+Doktor sisteme giriş yaptığında; mevcut randevularını ve seçtiği hastanın şikayetini görüntüleyebilir, bilgilerini düzenleyebilir, duyurulara bakabilir ve sistemden çıkış yapabilir.
+Sekreter sisteme giriş yaptığında; duyuru oluşturabilir, doktor ekleyebilir, branş ekleyebilir. Randevu oluşturabilir, güncelleyebilir ve listeleyebilir.
 
 ![h1](https://user-images.githubusercontent.com/75948446/182448883-303e0a4e-ce2c-4499-87c9-05390ac96ab9.png)
 
